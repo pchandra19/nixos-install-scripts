@@ -66,7 +66,7 @@ echo '
 
   users.users.root.openssh.authorizedKeys.keys = [
     # Replace this by your SSH pubkey!
-    "ssh-rsa AAAAAAAAAAA..."
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC9kVzG7Y9iJVr9VBposMx+r6Qx+sJx56HIg2LsbpLBBZlb6eRwFHA6occzWAPSOF1LbdEAvN0hFwDMb/cnl0+ZGjhFOqdmTYJprVGDAo9F4qpHfR28mTYpnHqWMvp8lYfaIRLzZx72KNQjPAEEVbBoLOag2c/FoHg3jPfCFD8GzF6fIrr2braeCdDTyR8BtKbk/m2rYifyybNcK3qTEXSsEp0HyMx/XpUdOZTwRs5PWV1m3u3FTW6rQNsJmxthqIHskAomMqXd1CzKpsg3dIIgBH1emsXAZEc2Kdt5Oe9soYgo9uCNyg2La5qYQ8Q5eAKJvYDPzgnks5wvrU3xEulIAc0yAT1AvpR2gNF04eTW2OI2TlseGkH++o+iHGo0R/X5NPQDBg99iR8fzWvKovEmGK33xUShVf8khoPomkGIGabRV93QyWWcii9UIWJYZB+KCI9V86kTfcddb9wGFTCcwzIkzQWuakX8pwkYQHCE2ouZEg3g4HdVZF3UMPTjiRr7eC15cRQf3BfvP2nPhJxGzcF1Q4qdm1QAL9DDkWMKZPRwz3zKHzK4bS54ALfe0mhWAnmHD6bU2rud+85S0/g2oP8GOuITzj/gqAoHaej0lqP95RuLedjmf+xB+gpZK3bb8ub+8VlTua73OjGtY248AevNX5SSJz9MTZKeJUWlRw== prateekchandra@pchandra-MB1.local"
   ];
 }
 ' >> /mnt/etc/nixos/configuration.nix
